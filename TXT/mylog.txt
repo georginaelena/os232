@@ -9,9 +9,12 @@ ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
-ZCZC W00 60 L09 Weekly Assignments
-ZCZC W00 120 L10 Learning Aljabar Linear
+ZCZC W00 60 L10 Weekly Assignments #00
+ZCZC W00 120 L70 Learning Aljabar Linear
 
-ZCZC W01 300 L11 Regular Class
-ZCZC W01 280 L12 OS Class WEEK01
-ZCZC W01 300 L13 Does OS Week Assignments 01
+ZCZC W01 200 L02 Regular Class
+ZCZC W01 250 L11 Does OS Weekly Assignments #01
+ZCZC W01 120 L09 Doing Aljabar Linear Homework
+
+ZCZC W02 200 L14 Reguler Class
+ZCZC W01 250 L12 Weekly Assignments #02
