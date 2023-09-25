@@ -3,18 +3,21 @@
 # LogCode + Description List
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 200 L12 Weekly OS Assignments #03
+ZCZC W03 200 L14 Regular OS Class
+
+ZCZC W02 200 L14 Reguler OS Class
+ZCZC W02 250 L12 Weekly OS Assignments #02
+
+ZCZC W01 200 L02 Regular OS Class
+ZCZC W01 250 L11 Does OS Weekly Assignments #01
+ZCZC W01 120 L09 Doing Aljabar Linear Homework
+
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 10 L05 QUIZ
-ZCZC W00 60 L10 Weekly Assignments #00
+ZCZC W00 60 L10 Weekly OS Assignments #00
 ZCZC W00 120 L70 Learning Aljabar Linear
-
-ZCZC W01 200 L02 Regular Class
-ZCZC W01 250 L11 Does OS Weekly Assignments #01
-ZCZC W01 120 L09 Doing Aljabar Linear Homework
-
-ZCZC W02 200 L14 Reguler Class
-ZCZC W01 250 L12 Weekly Assignments #02
