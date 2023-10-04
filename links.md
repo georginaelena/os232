@@ -16,5 +16,10 @@ Pengantar Editor VI. Ini menjelaskan berbagai mode dan banyak perintah yang dimi
 ## WEEK 03✨
 *[Penjelasan Linux File System](https://youtu.be/EwRW1Ga9jHQ?si=mXIZmSguCIVlrCK9) ---
 Penjelasan pembicaranya bagus dan cocok untuk kamu yang suka menonton video berbahasa Inggris.
+
+## WEEK 04✨
+*[SCP Command Tutorial](https://www.linode.com/docs/guides/how-to-use-scp/) ---
+Artikel ini  membantu saya dalam mempelajari perintah scp (salinan aman) yang dapat digunakan untuk mentransfer file dari sistem lokal ke remote, dari jarak jauh ke lokal, dan dari jarak jauh ke jarak jauh.
+
 <br>
 <hr>
