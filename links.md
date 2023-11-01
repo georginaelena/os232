@@ -24,5 +24,10 @@ Artikel ini  membantu saya dalam mempelajari perintah scp (salinan aman) yang da
 ## WEEK 05💙
 * [Page Replacement in OS](https://www.scaler.com/topics/operating-system/page-replacement-algorithm/) ---
 Artikel ini memperkenalkan betapa pentingnya memahami konsep penggantian halaman dalam sistem operasi  untuk mengelola memori virtual. Artikel memberikan penjelasan dan contoh praktis untuk berbagai algoritma seperti FIFO, LRU, LIFO, dan Algoritma Optimal. Semuanya dirancang untuk meminimalkan kesalahan halaman.
+
+## WEEK 06🧡
+* [fork() in C] (https://www.geeksforgeeks.org/fork-system-call/) ---
+Artikel ini menjelaskan informasi terkait apa itu Fork dan bagaimana cara penggunaannya. Artikel ini cukup jelas dalam memperkenalkan materi yang bisa saya katakan baru untuk saya.
+
 <br>
 <hr>
