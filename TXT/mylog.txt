@@ -3,6 +3,11 @@
 # LogCode + Description List
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 30 L03 Learning for doing OS Pop-Quiz
+ZCZC W07 200 L03 Studying OS
+ZCZC W07 100  L12 Weekly OS Assignments #07
+ZCZC W07 100 L14 Reguler OS Class
+
 ZCZC W06 100 L03 Learning for doing OS Pop-Quiz
 ZCZC W06 200 L03 Studying OS
 ZCZC W06 100  L12 Weekly OS Assignments #06
