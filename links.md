@@ -33,5 +33,11 @@ Artikel ini menjelaskan informasi terkait apa itu Fork dan bagaimana cara penggu
 * [The Critical-Section Problem] (https://youtu.be/UtEORPakw5Y?si=rxXeVPJll299GEBC) ---
 Video ini menjelaskan informasi terkait apa itu Critical Section. Video ini cukup jelas dalam memperkenalkan materi untuk pemula.
 
+## WEEK 08💘
+* [LFS 12.0 - How to build Linux From Scratch 12.0] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---
+Video ini mendemonstrasikan 'How to build Linux From Scratch 12.0'. Video ini sangat membantu pembelajaran materi WEEK08.
+* [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) ---
+Artikel ini berisi penjelasan mengenai proses pada sistem operasi. Artikel ini memiliki gambar sehingga mudah dipahami. Tutorial disusun dengan rapih dan berprogress secara bertahap.
+
 <br>
 <hr>
