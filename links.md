@@ -39,5 +39,11 @@ Video ini mendemonstrasikan 'How to build Linux From Scratch 12.0'. Video ini sa
 * [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) ---
 Artikel ini berisi penjelasan mengenai proses pada sistem operasi. Artikel ini memiliki gambar sehingga mudah dipahami. Tutorial disusun dengan rapih dan berprogress secara bertahap.
 
+## WEEK 09😍
+* [8. Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0](https://youtu.be/D_N1kQPsQEk?si=uzReVBkNFOwCyH_L) ---
+Video ini mendemonstrasikan 'Cross-Compiling Temporary Tools'. Video ini sangat membantu pembelajaran materi WEEK09.
+* [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://youtu.be/y8uAMEK0FVc?si=QEd0aYgKVG3X5eeX) ---
+Video ini mendemonstrasikan 'Entering Chroot and Building Additional Temporary Tools'. Video ini sangat membantu pembelajaran materi WEEK09.
+
 <br>
 <hr>
